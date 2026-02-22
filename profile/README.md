@@ -20,6 +20,7 @@
 | [**the_void_chronicles**](https://github.com/internetblacksmith/the_void_chronicles) | An interactive book you read over SSH. Try it: `ssh vc.internetblacksmith.dev` | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 | [**costar**](https://github.com/internetblacksmith/costar) | Find connections between any two actors using TMDB data. Full test suite with CI/CD and Kamal deployment. | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white) |
 | [**budget-ai**](https://github.com/internetblacksmith/budget-ai) | AI-powered personal finance manager — connect multiple bank accounts and let an LLM build your budget. | ![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white) |
+| [**tui_http**](https://github.com/internetblacksmith/tui_http) | Restless — a terminal-based HTTP client with full method support, history, and colorful status display. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
 
 ## Web & Interactive
 
@@ -28,6 +29,7 @@
 | [**impossible-clock**](https://github.com/internetblacksmith/impossible-clock) | An interactive clock that dares you to understand it. Visual regression testing, Cypress e2e. [See it live →](https://impossible-clock.netlify.app) | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [![Netlify](https://img.shields.io/netlify/e8c6aa23-8ad4-4df4-843e-89f70b4bec08?style=flat-square)](https://impossible-clock.netlify.app) |
 | [**rickroller**](https://github.com/internetblacksmith/rickroller) | Share any YouTube link — crawlers see legit metadata for social previews, but humans get rickrolled. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**turn-tracker**](https://github.com/internetblacksmith/turn-tracker) | MTG turn and phase tracker — real-time game state management built with a modern React stack. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**youtube_winamp**](https://github.com/internetblacksmith/youtube_winamp) | Winamp 2.x Chrome extension for YouTube Music, Spotify, and Amazon Music — pixel-perfect CSS skin with WSZ loader. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
 
 ## Games & Collections
 
