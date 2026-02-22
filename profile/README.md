@@ -30,6 +30,7 @@
 | [**rickroller**](https://github.com/internetblacksmith/rickroller) | Share any YouTube link — crawlers see legit metadata for social previews, but humans get rickrolled. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**turn-tracker**](https://github.com/internetblacksmith/turn-tracker) | MTG turn and phase tracker — real-time game state management built with a modern React stack. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | [**youtube_winamp**](https://github.com/internetblacksmith/youtube_winamp) | Winamp 2.x Chrome extension for YouTube Music, Spotify, and Amazon Music — pixel-perfect CSS skin with WSZ loader. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| [**similar_elements_extension**](https://github.com/internetblacksmith/similar_elements_extension) | Right-click any element to find all similar ones on the page — with visual previews and zip export. Chrome + Firefox. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white) |
 
 ## Games & Collections
 
@@ -42,6 +43,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**scrollphat-bitfinex**](https://github.com/internetblacksmith/scrollphat-bitfinex) | Display live Bitcoin prices on a Raspberry Pi Scroll pHAT LED matrix. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Stars](https://img.shields.io/github/stars/internetblacksmith/scrollphat-bitfinex?style=flat-square&color=yellow) |
+| [**pico_meet**](https://github.com/internetblacksmith/pico_meet) | Keybow 2040 Google Meet controller — CircuitPython firmware with RGB key mapping and a companion Chrome extension. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CircuitPython](https://img.shields.io/badge/CircuitPython-000000?style=flat-square) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
 
 ## In the Forge
 
