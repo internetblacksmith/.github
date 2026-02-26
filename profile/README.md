@@ -31,6 +31,9 @@
 | [**turn-tracker**](https://github.com/internetblacksmith/turn-tracker) | MTG turn and phase tracker — real-time game state management built with a modern React stack. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | [**youtube_winamp**](https://github.com/internetblacksmith/youtube_winamp) | Winamp 2.x Chrome extension for YouTube Music, Spotify, and Amazon Music — pixel-perfect CSS skin with WSZ loader. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
 | [**similar_elements_extension**](https://github.com/internetblacksmith/similar_elements_extension) | Right-click any element to find all similar ones on the page — with visual previews and zip export. Chrome + Firefox. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white) |
+| [**chrome-params-viewer**](https://github.com/internetblacksmith/chrome-params-viewer) | Chrome extension that displays URL query parameters in a draggable panel with one-click copy. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| [**chrome-sticky-note**](https://github.com/internetblacksmith/chrome-sticky-note) | Persistent sticky notes per webpage — drag, pin, and organize notes that survive tab closes. | ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white) |
+| [**tax_to_missile**](https://github.com/internetblacksmith/tax_to_missile) | What did your lifetime taxes buy? A satirical calculator turning tax into military equipment. [See it live →](https://taxreceipt.internetblacksmith.dev) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ## Games & Collections
 
@@ -52,6 +55,7 @@
 |---------|-------------|------|
 | [**rspeji**](https://github.com/internetblacksmith/rspeji) | RSpec emoji formatter — replace boring dots with expressive emoji in your test output. `gem install rspeji` | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) ![RubyGems](https://img.shields.io/badge/RubyGems-E9573F?style=flat-square&logo=rubygems&logoColor=white) |
 | [**to_bf**](https://github.com/internetblacksmith/to_bf) | Convert any text to Brainfuck — a Ruby gem for generating valid BF programs from strings. | ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) |
+| [**link_cleaner**](https://github.com/internetblacksmith/link_cleaner) | Strip tracking parameters from URLs before sharing — cross-platform Flutter + React Native app. | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black) |
 
 ## In the Forge
 
@@ -76,5 +80,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 </div>
